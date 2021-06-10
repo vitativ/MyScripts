@@ -12,7 +12,7 @@ def run(cmd):
 
 if __name__ == '__main__':
     main()
-	
+#aaa	
 #scp peselv@BuildNode:/home/peselv/workspace/Build-CourseProject/pom.xml /home/peselv
 #python MyPython.py BuildNode:/home/peselv/workspace/Build-CourseProject/target/courseProject.war /home/peselv
 
